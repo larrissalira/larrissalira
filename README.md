@@ -10,7 +10,7 @@ class AboutMe extends Developer {
   name = 'Larrissa Lira';
   nickname = 'Lia'
   pronouns = 'She/her'
-  age = '27'
+  birthday = 'March nineteenth'
   area = 'Studying web development full stack';
   local = 'Campina Grande / PB - Brasil';
 }
