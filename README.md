@@ -1,5 +1,5 @@
 ### 
-<img align="left" width="350" src="https://github.com/larrissalira/larrissalira/blob/main/img/a.png?raw=true">
+<img align="left" width="330" src="https://github.com/larrissalira/larrissalira/blob/main/img/a.png?raw=true">
 
 <h1> ʜɪ, <a href="https://github.com/larrissalira">ʟɪᴀ</a> ʜᴇʀᴇ! <img src="https://emojis.slackmojis.com/emojis/images/1643515618/16402/pink_computer.gif?1643515618" width="25px"></h1>
 
