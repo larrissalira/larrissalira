@@ -41,14 +41,8 @@ class Skills extends Developer {
 </div>
   
 <div style="display: inline_block" width="100px">
-  <a href="https://github.com/larrissalira/decodificador">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=larrissalira&repo=decodificador&show_owner=Lia&show_icons=true&title_color=ff79c6&bg_color=2d333b&text_color=ff8c00&icon_color=e7de79&hide_border=true"></img>
-  </a>
   <a href="https://github.com/larrissalira/Projeto-M4-API_REST">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=larrissalira&repo=Projeto-M4-API_REST&show_owner=Lia&show_icons=true&title_color=ff79c6&bg_color=2d333b&text_color=ff8c00&icon_color=e7de79&hide_border=true"></img>
-  </a>
-  <a href="https://github.com/larrissalira/apodnasa">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=larrissalira&repo=apodnasa&show_owner=Lia&show_icons=true&title_color=ff79c6&bg_color=2d333b&text_color=ff8c00&icon_color=e7de79&hide_border=true">
   </a>
   <a href="https://github.com/larrissalira/Analise-Game-of-Thrones">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=larrissalira&repo=Analise-Game-of-Thrones&show_owner=Lia&show_icons=true&title_color=ff79c6&bg_color=2d333b&text_color=ff8c00&icon_color=e7de79&hide_border=true">
