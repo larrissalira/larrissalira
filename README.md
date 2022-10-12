@@ -16,8 +16,8 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['JavaScript', 'SQL', 'noSQL', 'HTML5',
-  'CSS3'];
+  languages  = ['JavaScript', 'SQL', 'HTML5',
+  'CSS3', 'Python'];
   frameworks = ['SwiftUI', 'Bootstrap',
   'Express'];
   architectures = ['MVC', 'MVP', 'MVVM'];
